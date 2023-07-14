@@ -25,8 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/IaE5OI8dqCD8bsFgSl/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![]()
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with Kap!

@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![]()
+![](https://github.com/TSherpa10/web102_prework/blob/main/web102_preworkDEMO.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with Kap!

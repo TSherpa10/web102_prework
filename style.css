@@ -17,10 +17,17 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    position: sticky;
+    top: 0;
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
+    :hover {
+        cursor: pointer;
+        box-shadow: 0 0 30px lightblue;
+    }
 }
 
 .stats-card {
@@ -72,4 +79,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+#surprise-btn {
+    background-color: black;
+    color: white;
 }

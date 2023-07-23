@@ -45,7 +45,7 @@ I also had a lot of fun with the bonus features (particularly the surprise me bu
 
 ## License
 
-    Copyright [2023] [name of copyright owner]
+    Copyright [2023] [Tashi Sherpa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
